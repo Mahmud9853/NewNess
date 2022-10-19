@@ -1,0 +1,64 @@
+﻿@model Contact
+<section class="vh-100">
+    <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+
+            <h1 class="mb-4 text-center">Bizimlə Əlaqə</h1>
+     
+            <div class="col-lg-12 col-xl-11">
+                <div class=" text-black">
+                    <div class="card-body ">
+                        <div class="row justify-content-center">
+                            <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+                                <div class="info-wrap w-100 p-5">
+                                  
+                                        <div class="row">
+                                       
+                                            <div class="col-md-12 text-center">
+                                                <ul class="list-unstyled mx-4  text-warning">
+
+                                                    <li class=" mx-4 ">
+                                                        <i class="fas fa-phone mt-4 fa-2x"></i>
+                                                        <p>@Model.Number</p>
+                                                    </li>
+
+                                                    <li class=" mx-4 ">
+                                                        <i class="fas fa-envelope mt-4 fa-2x"></i>
+                                                        <p>@Model.Email</p>
+                                                    </li>
+                                                    <li class=" mx-4 ">
+                                                        <div class=" mx-4 ">
+                                                            <i class="bi bi-instagram  mt-4" style="font-size:33px;"></i>
+                                                        </div>
+
+                                                        <a class="text-decoration-none text-warning" href="@Model.InstagramLink">@Model.InstagramName</a>
+                                                    </li>
+                                                    <li class=" mx-4 ">
+                                                        <div class=" mx-4 ">
+                                                            <i class="bi bi-youtube  mt-4" style="font-size:33px;"></i>
+                                                        </div>
+
+                                                        <a class="text-decoration-none text-warning" href="@Model.YoutubeLink">@Model.YoutubemName</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <!--Grid column-->
+
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
+
+                                <img src="~/img/@Model.NewsImages" class="w-100 img-fluid" alt="Sample image">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

@@ -1,0 +1,55 @@
+﻿
+@model Contact
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Update</h4>
+
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Photos" for="exampleInputName1"></label>
+                        <input asp-for="Photos" class="form-control">
+                        <span asp-validation-for="Photos"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Number" for="exampleInputName1"></label>
+                        <input asp-for="Number" type="text" class="form-control">
+                        <span asp-validation-for="Number"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="InstagramLink" for="exampleInputName1"></label>
+                        <textarea asp-for="InstagramLink" rows="6" type="text" class="form-control"></textarea>
+                        <span asp-validation-for="InstagramLink"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="InstagramName" for="exampleInputName1"></label>
+                        <input asp-for="InstagramName" rows="6" type="text" class="form-control">
+                        <span asp-validation-for="InstagramName"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" for="exampleInputName1"></label>
+                        <input asp-for="Email" rows="6" type="text" class="form-control">
+                        <span asp-validation-for="Email"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="YoutubeLink" for="exampleInputName1"></label>
+                        <input asp-for="YoutubeLink" rows="6" type="text" class="form-control">
+                        <span asp-validation-for="YoutubeLink"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="YoutubemName" for="exampleInputName1"></label>
+                        <input asp-for="YoutubemName" rows="6" type="text" class="form-control">
+                        <span asp-validation-for="YoutubemName"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button class="btn btn-light" asp-controller="Slider" asp-action="Index">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

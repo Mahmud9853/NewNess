@@ -1,0 +1,15 @@
+﻿@model Appuser
+
+
+<a class="nav-link dropdown-toggle" data-toggle="dropdown" id="profileDropdown">
+    @if (Model.Image != null)
+    {
+        <img src="~/img/@Model.Image" alt="profile" />
+    }
+    else
+    {
+        <img src="~/img/user.png" alt="profile" />
+    }
+
+    <span class="nav-profile-name">@Model.FullName</span>
+</a>

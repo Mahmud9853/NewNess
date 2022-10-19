@@ -1,0 +1,537 @@
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.exe
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\css\cssfile.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\css\maps\style.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\css\style.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\documentation\documentation.html
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Black.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Black.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Black.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Black.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Bold.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Bold.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Bold.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Bold.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Light.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Light.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Light.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Light.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Medium.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Medium.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Medium.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Medium.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Regular.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Regular.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Regular.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\fonts\Roboto\Roboto-Regular.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\0b3a786e-2ffc-4db2-a874-2f858af16e201665985774_sagird12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\559ed1b2-fedf-4542-bac9-bd8de3662e731665985774_sagird12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\873a00cd-ca5a-43bd-b29b-396220dca54c1665255448_thumbs_b_c_6a6862e94e56c8a516dc5c1ce2711566.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\9f310306-3abb-4113-b223-22936e962bef1666039056_aleksiya-putelyas-poluchila-zolotoj-myach-kak-luchshaya-futbolistka_16660338281781571091.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\a9d42ca7-67cf-4432-9807-a458f0655b921666036948_16345377244523637907_1000x669.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\auth\lockscreen-bg.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\auth\login-bg.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\auth\register-bg.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face1.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face10.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face11.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face13.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face14.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face15.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face16.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face17.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face18.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face19.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face2.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face20.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face21.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face22.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face23.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face24.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face25.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face26.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face27.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face3.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face4.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face5.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face6.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face7.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face8.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\face9.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\faces\newness.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\favicon.ico
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\ff0aa8c2-53b9-4fd3-bc01-99db91998b0d1665255448_thumbs_b_c_6a6862e94e56c8a516dc5c1ce2711566.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\logo-mini.svg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\logo.svg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\Newness.svg.jpeg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\newness.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\images\user.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\adminsearch.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\chart.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\Chart.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\dashboard.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\data-table.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\dataTables.bootstrap4.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\Delete.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\documentation.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\file-upload.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\hoverable-collapse.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\jquery.cookie.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\jquery.dataTables.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\off-canvas.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\tabs.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\js\template.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\base\bootstrap.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\base\vendor.bundle.base.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\base\vendor.bundle.base.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\chart.js\Chart.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\datatables.net-bs4\dataTables.bootstrap4.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\datatables.net-bs4\dataTables.bootstrap4.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\datatables.net\jquery.dataTables.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\css\materialdesignicons.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\css\materialdesignicons.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\fonts\materialdesignicons-webfont.eot
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\fonts\materialdesignicons-webfont.svg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\fonts\materialdesignicons-webfont.ttf
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\fonts\materialdesignicons-webfont.woff
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Admin\vendors\mdi\fonts\materialdesignicons-webfont.woff2
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.rtl.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.rtl.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.rtl.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-grid.rtl.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.rtl.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.rtl.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.rtl.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-reboot.rtl.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.rtl.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.rtl.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.rtl.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap-utilities.rtl.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.rtl.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.rtl.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.rtl.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\css\bootstrap.rtl.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.bundle.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.bundle.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.bundle.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.bundle.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.esm.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.esm.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.esm.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.esm.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap-5.2.1-dist\js\bootstrap.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\animate.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\mixins\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\mixins\_border-radius.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\mixins\_breakpoints.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\mixins\_screen-reader.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\mixins\_visibility.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\utilities\_stretched-link.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\bootstrap\_media.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\css\style.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\fonts\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\images\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\images\bg_1.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\.DS_Store
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\bootstrap.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\jquery.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\jquery.validate.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\main.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\Contact\js\popper.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\cssfile.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\index.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\register.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\site.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\style.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\css\style.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\03fbf6fb-c2e1-4614-8b5b-6394056291b1artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0407b015-87f8-4f16-b1ca-5a7d938d62d6images (9).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\067b354d-640f-4d3d-9ae4-ff5a29670210Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\09010c6a-dc0a-4f6a-b6e1-b5993a66a2f1c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\094717ab-24b3-495a-9313-3f4b6d1438d4alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\09762ae2-e00c-4598-a1ba-ba030e611b29artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0a6fd958-cd2d-4cc4-90f9-47da13a9eafaartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0aec5cb1-9f0a-49e1-99a5-97f44fc1d5d1Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0bd15228-bc3c-48a6-9cfd-636858772268Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0c62e100-c48e-42a5-a6c9-dfa1c2452ef1artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0e3137dd-3bb5-4aff-8c94-7dd351015486images (10).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0f317cef-59d6-40f1-abc4-631de25e74cadvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0f764bbe-1ace-4e7a-8682-7bb2a33728301b7ec9fa-bc9a-4018-acd5-b48a01a42d5bdvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\0fa46f1e-b359-4a38-83f2-a3a9408984feimages (8).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\101a4df1-b5bd-4039-8275-4a36badfd587dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1080dbca-190c-4e92-9f5f-2cd117274808alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1182d526-5e67-40fe-a4bb-27fbd11ae6b311dad0ae-e241-3710-b7c1-edd64ca7319c_850.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\11a2b916-6ce4-41c0-9db6-96a73ef042b7alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\151d182b-94a8-4c00-9335-634b155ab3b4alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1807aabe-4b17-432b-b995-9e663070f696Broadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\18293302-db2d-48db-bfb7-defa59e248c71666039056_aleksiya-putelyas-poluchila-zolotoj-myach-kak-luchshaya-futbolistka_16660338281781571091.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\183782e0-f84e-49d3-8aaa-71882e2604aa330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\19cafe51-b425-4e9f-afff-5d26dbb35dd4Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1b7ec9fa-bc9a-4018-acd5-b48a01a42d5bdvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1c27052d-ec5c-4229-9c8a-3dd76f375cf1Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1c6c47ee-fead-4e4e-add4-d2db83a9afcaalessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1c83b606-4efa-4bc7-802f-4a763dc875bdimages (9).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1cd1ed6e-6f8a-4f99-8ce7-720bd5973c10artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1e63118f-9c00-4b96-8099-da56927581a5330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\1e7c6763-7ee9-439c-965f-f2c42080b2ea330px-Singlemode_fibre_structure.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\22953b41-988d-496b-aafd-ed7670f4bce0artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\24afe2e0-0d4a-458c-9c96-4bf7f034ce9dBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\26d707be-8a36-49a5-b0ef-888f270aa121Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\27abdb08-b844-41fc-9257-be23abf2e9e80bd15228-bc3c-48a6-9cfd-636858772268Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\29b69271-0c3f-4b54-af94-e2a44e6a6af6Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2b44d0d4-5b6c-481a-bcf7-d432424bde89alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2bca9432-cc48-4f86-aedf-f0cf4bafb2afalessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2d834358-1a8e-40d1-8e0c-29462904e7b5Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2e0d8c47-a767-4df3-b3e2-fc68d528b5c5330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2e2ff500-10b8-4877-a8e3-6729d32ba7b9628b6eb26f1a95396ceb3a8ad6785eee.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\2f655970-176e-4a43-92d3-f7269e5b836b330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\30c05546-8669-4781-bbd7-754e403f2fb3628b6eb26f1a95396ceb3a8ad6785eee.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\33f4f70e-c9a9-44c3-8759-7037e55051d0images (5).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\349c6562-d663-4eed-9484-258f255b8393628b6eb26f1a95396ceb3a8ad6785eee.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\34e90a46-edc0-44f0-9120-25d67e04760eece4b024be0daa358560dc8bafafca85.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\36014b6f-44ff-4225-9f9f-28b9eaa6e1f5dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\3856ad67-3b6d-41bc-ae1e-f3f2aeb35c6dimages (12).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\3b614fe9-ec97-44e8-b776-56496e1daa691234710873_w200_h200_ponizhayuschij-stabilizator-toka.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\3b6cff94-4f24-4a8d-af65-49c0b0df7af30fa46f1e-b359-4a38-83f2-a3a9408984feimages (8).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\3d74c3b4-e481-445e-9b2c-9e4472614681artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\3dc2eb7a-daf6-4a8a-a1ba-fd63f779068eartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\41d88031-9fed-4465-9415-4281db9b3053artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\41e1d752-4e47-406f-b5c6-6c4b78af4123artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\43f58f7e-9f85-4b7d-b69d-1a34011c743cBroadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\442d45e3-ef0f-437d-86c4-2ba53cbcc967artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\45cb7042-81d6-4f45-aa2e-5522f8fd2e31alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\45de5452-2162-4d95-8b12-e4a2add7b21fartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\4618260e-d5e5-4eaa-b927-ec02357137400aec5cb1-9f0a-49e1-99a5-97f44fc1d5d1Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\4a3703a3-b894-4010-b775-fb45622bad8fBroadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\4b899950-11b8-4883-b1f6-d5449e361c7dartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\4c777c4b-934d-4d59-9c20-f08246390da3dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\4cb0036a-f56e-4dd6-9704-c7b7fab9388fartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\509617b3-f10a-4497-9f75-161b19ea7f6cartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\518b5576-9e22-478f-b5ae-0a93d48dcc5f1665985774_sagird12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5270cf58-365e-4c6f-a27e-2577822bf13c1665985774_sagird12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\52be0ee2-433f-4c8e-bda1-825a3759f408artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\537f877c-4ef9-4b5a-885e-7a41495b0345c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5427b419-59a9-476f-8e91-45c08b208656artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5553ff83-84dc-4eec-ada3-a66d23e885d3images (6).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\55f66d5b-163e-48e9-a65d-08ceb010340a1234710873_w200_h200_ponizhayuschij-stabilizator-toka.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5815470f-17dd-4d93-86eb-f02d3e4ee2b7artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5ae189a8-36e1-4fa8-9150-9ca822fc4757alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5b347687-9897-47b1-a15b-f8ab755052a7alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5bcc2aca-4752-418c-bf2e-cf80d0522182c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5cace90f-57c3-4c2d-8d27-d9e13585d777alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\5d608e97-afd3-48e2-a14e-95caeff92b7cartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\60130919-a318-4c96-a8b3-39bff20bb3f8c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6032497b-e2da-41cd-8f82-288d95cb1b50images (16).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\622e0489-3776-448a-b0e3-76291525f749alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6270ef88-6510-443e-b9bf-e5cddf5c3675Broadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\62d62d79-e032-4fa1-a856-a6000320d7f4images (6).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\634c73d7-0c2b-4e74-85ab-983fd3f1faf7artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\63d4a339-3892-411a-a39e-8a988b039296artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6417773d-a2e4-494c-821a-ef39f825f356c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\68e6f2eb-a50e-46ad-b73e-bc43e577dbf6c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\691ecf36-0c33-4225-9fac-edf274537d68c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6b0df18c-8834-4de1-8859-448effdba5dfalessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6d641642-8882-4bba-8a48-ea730eb1a1b40aec5cb1-9f0a-49e1-99a5-97f44fc1d5d1Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\6ea08b1f-d109-4a9d-9b2a-e57c60dd6bb3artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\71f738a5-e88f-486a-8656-20da9d07c77edvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\737757e7-9518-43fb-a251-fd97c14cc6170c62e100-c48e-42a5-a6c9-dfa1c2452ef1artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\74c5a3ba-c9a1-4252-9a99-b36047c3591cimages (14).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\757351f3-1561-45ca-8f7b-ee42e46c2f32alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\75fbbd3e-e7f5-4ef6-8551-722b6426e32aalessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\76c1ff0e-57f4-408d-a9a8-03434a880f07c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\77385af6-7e33-422c-a096-55ed94f8176eBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\783cb4a9-e3aa-464e-95c4-c995683d0130artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\78709b98-82dd-4abf-bc1c-f76adc66fa44artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\7a71e0d6-8d6d-4b49-82a9-d767d28ffddd330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\7a926ed7-cad4-449b-98cf-f98a93c2d4ddimages (2).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\7cad7ebb-7102-4874-9594-03c47cc2dd5dartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\7f15256b-5fbb-4fa3-bff6-e27bf5a7e31fimages (13).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\7f82a1bc-f1e4-41ee-8f86-ad656b35d10611dad0ae-e241-3710-b7c1-edd64ca7319c_850.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\84a46164-ebf6-4585-9d92-deaa3521e3a3Broadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8536e76a-ffa1-4d9a-9e0a-2367b9ba2103artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\877eac6f-7222-4379-ac0b-5f43cd1cf163c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8b6498d5-e735-4165-a336-69e8f0e515c3alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8c53f949-740e-40a6-84d2-a709baf536e8artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8dbd1b9b-1a4e-4861-b908-f0b0a659a868dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8e7a7fd9-6df0-4e3b-b748-4fd375d92d89alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\8fc83899-a083-4bd4-84f8-628312b07e49dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\908b7465-ece6-49ba-acda-bdc3925b391calessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\91e21035-1fc9-435c-bfc3-3c5d998e06f1330px-Singlemode_fibre_structure.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\928cafc8-0c6c-46b0-8133-d12e037d226a1666039056_aleksiya-putelyas-poluchila-zolotoj-myach-kak-luchshaya-futbolistka_16660338281781571091.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\93b3b4bb-1d9f-4866-b813-14cdb0ba2eebartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\93f5e74d-e81e-4924-96f9-42761ac68297628b6eb26f1a95396ceb3a8ad6785eee.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9a3a86e4-2ef5-496c-bf33-32db2869c36aBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9a816c97-74c4-4cb8-8b05-31153907c8541666036948_16345377244523637907_1000x669.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9bf35a97-ee8b-4a98-a53f-820391cc47ed0a6fd958-cd2d-4cc4-90f9-47da13a9eafaartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9c122fb5-4012-42c8-9d08-5d6b23c07c95artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9cb10cf9-d7ad-4bf7-99a6-47ccd25db7c8alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9f913b28-532d-4a2a-8acd-8b8612d0e12bBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\9fa71cb4-cb6c-4ec5-96c5-c1fb0d1167f30e3137dd-3bb5-4aff-8c94-7dd351015486images (10).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a355bda5-4ac0-471c-9aea-1f9d873a29851665255448_thumbs_b_c_6a6862e94e56c8a516dc5c1ce2711566.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a3a31494-2bb7-4131-8d78-462157cbba66artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a3b2b5c3-b5fb-40d2-9bb7-0eb87a586c8c1666039056_aleksiya-putelyas-poluchila-zolotoj-myach-kak-luchshaya-futbolistka_16660338281781571091.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a65e1b97-87c4-4df4-8af3-513318c1a63fartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a7824c61-4d57-4507-ad71-8d5c4253d647artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a7b05131-56d7-42e3-8865-4490c3dc4d14artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a8a36969-d4bb-42bc-8763-eb7119d58480artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\a9c4bfb7-76b3-4bd3-85e2-e09739ca3d25c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\aacbf185-1b09-4730-afc7-33a7df4587b2dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\accc2213-e322-4d2d-bfc7-5b8aaa1cfabcartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\aec495cb-9e46-4d8d-bfe5-4a12c94838e0c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b03ceecd-c02c-4806-b117-8255a8ed6c02artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b1305885-f0e4-4c6e-9853-7f7233bcf4d4alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b1c8e03e-2275-490a-9b19-ceaf5e2efe85Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b2210288-227c-4248-8c67-96ff5b300b71artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b2232340-d2bd-46ba-87b0-88421579158bBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b2faa780-139c-4ec1-891a-a865a5431236Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b4412700-c298-4d3b-9fbb-c33dd00140f4alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b48d9c81-116c-414c-a659-0dc21bd4005aartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\b975c465-bb53-4133-8652-633d44023470artificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ba60694a-160e-40f4-b63a-cacde7d3cffdartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\bbeeed43-1b50-492f-892d-2e34fe702ab0images (2).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\bc3aaf9b-9b47-4838-9790-32b2b8fb259dnewness.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\bdad3465-5499-4860-a074-8d2501b11ace330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\be9246d2-b715-4145-875d-eed54692755a330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c3f465ec-4a26-4d85-ae78-d3ec2fdd09e9c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c40cabcf-95d6-4f3d-827b-603950f829d31666036948_16345377244523637907_1000x669.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c4b0154b-d577-4e07-9774-3de14e5f122ac40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c602923c-1952-40e2-ae36-ac6a634661e8images (13).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c6261b46-106b-4d4f-956c-795f0032d7041666204140_311314252_10225407677713710_6269606951900014246_n.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c6e88987-25b5-4572-9382-9040227f8b6fc40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c7811f3a-7e6a-45de-828c-079008a018d0alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c84c6221-0a9b-4b20-b7b7-7d2511a47606fibre-optic-cable-500x500.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c8f0cdc0-ba74-4d63-a6c8-f22d39a97e7dBroadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\c91a2dac-cd80-4424-965b-a2e90c8bb541alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ca4a9cd7-6967-4f4e-8c62-5dd66f2cf6f6artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\cb2cb53f-c27d-4fcf-a531-fdc7ab2e63ac1665255448_thumbs_b_c_6a6862e94e56c8a516dc5c1ce2711566.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\cb77e219-293c-4dff-927e-39bec6a1c5661234710873_w200_h200_ponizhayuschij-stabilizator-toka.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\cd7739c5-f3bb-42a6-9746-303f14904183Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\cdf9963b-779e-4691-821f-ef491d82dd1e330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d22eda5c-e708-42d3-a2f1-471d3d5395b8artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d26c3054-4841-4abd-bced-e8a514899290images (15).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d4770a68-87c4-4b1a-ad9e-100070c5a205alessandro pautasso (6) - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d54d41cd-fbdc-4fb0-a260-1b3b1dd8f632alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d71b0a99-fa80-4705-b05f-82af77b8144cartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d88ce7a5-e156-46d7-860e-7a7e48b450b6c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\d9cee82f-ba53-4cc2-bf5e-40922f8a00a9images (9).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\db8d0e76-6365-455e-8a61-75baa23c7635alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\dbdc5db8-f678-4d40-a58a-5176ff486f2c1665985774_sagird12.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\dcee0d8d-620f-45d0-8fd3-9979f693c2ecalessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\df1c0699-7f68-4a96-85ab-ce13fe743457Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\dvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e1928442-0b5c-4c77-ae4f-9075321ee7f2Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e1a3a0e5-8228-4c66-9078-ce46109903f8Broadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e1c1ef44-0816-41f6-8f25-2baa4303de6cBroadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e1cc831a-2ba9-4ae1-975d-ff2144ab0348artificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e37ac1c2-f9da-4eff-8113-13e609bfcf9f1666039056_aleksiya-putelyas-poluchila-zolotoj-myach-kak-luchshaya-futbolistka_16660338281781571091.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e587c63e-ac49-4da9-8371-56eaf588f38fartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e5a5dacd-162b-44e4-8f4b-9fb54bfbd1c50bd15228-bc3c-48a6-9cfd-636858772268Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e699ba2b-7e74-4f79-93b9-6b55e44956eaartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e7824af9-1408-4731-95b2-c45dc0eb8e1e11dad0ae-e241-3710-b7c1-edd64ca7319c_850.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e8232e1b-ac65-443d-a6e0-c2297e2aab46alessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\e91635b5-aa6e-4340-b57f-b6948f6489ffalessandro pautasso (6).jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ec8d9499-77bb-4f74-b013-6fd690759a90images (6).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ee3c2a62-11e3-40cc-94da-8c4e7818969f1665255448_thumbs_b_c_6a6862e94e56c8a516dc5c1ce2711566.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ee760ffe-03d1-4f04-a67c-3e2907c653feartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\eee4b016-ec1c-4966-a782-c1c04e76413cartificial - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\eefc8b16-56ef-45b2-9cc9-5a3e5ee007a3c40d90e90734115506d5162bb887b62d.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\effa0336-7a3b-446c-b6bb-51a585b7516c628b6eb26f1a95396ceb3a8ad6785eee.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\f447f267-c19a-489b-9087-6c6d77608506images (4).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\f4e7e1f7-4c44-476e-b27d-5f9fc134eeeb0fa46f1e-b359-4a38-83f2-a3a9408984feimages (8).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\f5d124ef-1d8d-45eb-8ba5-4ae1ce6b09d1Broadband-Internet-Connection - Copy.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\f75eee3e-86f5-4762-abfe-85d819c08cd2Broadband-Internet-Connection.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\fa7f13bd-215d-4903-9198-65925e83040cartificial.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\favicon.ico
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\fb765d2b-da5d-43ee-9eb3-42884401b33a330px-Fiber_optic_illuminated.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\fbfd911f-d677-49c5-bd9e-5557b24c6891indir (1).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\fd118e04-6385-4118-a4ac-20246640a0b91234710873_w200_h200_ponizhayuschij-stabilizator-toka.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ff71e9a0-61b9-46b5-abb0-d3402a8153c60fa46f1e-b359-4a38-83f2-a3a9408984feimages (8).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\ff891b3e-8d4c-4197-bdf8-437b7f187bcbdvdgd.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\futbol.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\images (8).jfif
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\newness.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\newness.svg.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\sehid.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\sss.jpg
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\img\user.png
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\btnDelete.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\DarkWhiite.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\datetime.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\jsfile.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\profile.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\script.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\search.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\js\weather.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\LICENSE
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery-validation\LICENSE.md
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.runtimeconfig.json
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Humanizer.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Composition.AttributedModel.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Composition.Convention.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Composition.Hosting.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Composition.Runtime.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Composition.TypedParts.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Runtime.Caching.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.Views.dll
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.Views.pdb
+D:\NewNess\NewNess\NewNess\obj\Release\net5.0\PubTmp\Out\NewNess.deps.json

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewNess", "NewNess\NewNess.csproj", "{CBCD96CF-3204-477F-A8C7-2C1704E03BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCD96CF-3204-477F-A8C7-2C1704E03BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCD96CF-3204-477F-A8C7-2C1704E03BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCD96CF-3204-477F-A8C7-2C1704E03BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCD96CF-3204-477F-A8C7-2C1704E03BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA7590B-B89C-48E4-98B6-628FBF1A98A5}
+	EndGlobalSection
+EndGlobal

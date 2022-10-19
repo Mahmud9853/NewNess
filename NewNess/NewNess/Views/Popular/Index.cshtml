@@ -1,0 +1,26 @@
+﻿
+@model List<Popular>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row gy-2 mt-5">
+
+        <h1 class="text-center">Trendlər</h1>
+        @foreach (Popular pop in Model)
+        {
+
+            <div class="col-md-6 col-sm-12 col-lg-3  my-4 photo">
+                <div class="product-item  box d-flex p-4 h-100 flex-column text-warning" >
+                    <img src="~/img/@pop.Image" class="h-75" alt="...">
+                    <p class="card-text">@pop.Title</p>
+                    <span>By @pop.By</span>
+                    <div> <i class="bi bi-hourglass-split "></i>@pop.CreateTime.ToString(" HH:mm")  </div>
+                    <a asp-controller="Popular" asp-action="Detail" asp-route-id="@pop.Id" class="btn btn-warning my-3">Ətraflı</a>
+
+                </div>
+            </div>
+        }
+    </div>
+</div>

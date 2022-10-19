@@ -1,0 +1,106 @@
+﻿@model HomeVM
+@*@foreach (Slider slider in Model.Sliders)
+    {
+        <li>
+            <a><img src="~/img/@slider.Image" /></a>
+            <h1>@slider.Title</h1>
+        </li>
+    }*@
+@if (Model.News.Count != 0)
+{
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body W-100">
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Create" class="btn btn-outline-info  btn-rounded">Create</a>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-striped ">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            Şəkli
+                                        </th>
+                                        <th>
+                                            Görüntülənmə
+                                        </th>
+                                        <th>
+                                            Adı
+                                        </th>
+                                        <th>
+                                            Statuse
+                                        </th>
+                                        <th>
+                                            Kateqoriya
+                                        </th>
+                                        <th>
+                                            Zaman
+                                        </th>
+                                        <th class=" d-flex justify-content-end">
+                                            Action
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                                <tbody id="result" cellpadding="0" cellspacing="0">
+   
+           
+                                    @foreach (News item in Model.News)
+                                    {
+
+                                        <tr>
+
+                                            <td>
+                                                <img src="~/img/@item.NewsImages.FirstOrDefault()?.Image" class="w-50" />
+                                            </td>
+                                            <td>
+                                                @item.Count
+                                            </td>
+                                            <td>
+                                                @item.Title
+                                            </td>
+                                            <td>
+                                                @if (item.IsDeactive)
+                                                {
+                                                    <div>Aktiv</div>
+                                                }
+                                                else
+                                                {
+                                                    <div>Deaktiv</div>
+                                                }
+                                            </td>
+                                            <td>
+                                                @item.Category.Name
+                                            </td>
+                                            <td>
+                                                @item.CreateTime.ToString("dd , MMMM/yyyy")
+                                            </td>
+                                            <td class="d-flex justify-content-end ">
+                                                <a class="btn btn-outline-info mx-2 btn-rounded" asp-action="Detail" asp-route-id="@item.Id">Detail</a>
+                                                @if (item.IsDeactive)
+                                                {
+                                                    <a class="btn btn-outline-success mx-2 btn-rounded" asp-action="Activity" asp-route-id="@item.Id">Activate</a>
+                                                }
+                                                else
+                                                {
+                                                    <a class="btn btn-outline-danger mx-2 btn-rounded" asp-action="Activity" asp-route-id="@item.Id">Deactivate</a>
+                                                }
+
+                                                <a class="btn btn-outline-success mx-2 btn-rounded" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                                @*<a class="btn btn-outline-success mx-2 btn-rounded" asp-action="Delete" asp-route-id="@item.Id" ><i class="mdi-delete"></i></a>*@
+                                            </td>
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

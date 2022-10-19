@@ -1,0 +1,22 @@
+﻿@model List<Video>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-warning text-center my-4">Videolar</h1>
+
+<div class="container">
+    <div class="row">
+
+        @foreach (Video video in Model)
+        {
+        <div class="my-5 col-md-3">
+            <div class="ratio ratio-16x9">
+                <iframe src="@video.Link" title="YouTube video" allowfullscreen></iframe>
+            </div>
+        </div>
+          
+        }
+    </div>
+
+</div>

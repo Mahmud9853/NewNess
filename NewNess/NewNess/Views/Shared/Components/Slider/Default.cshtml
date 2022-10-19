@@ -1,0 +1,26 @@
+﻿@model List<Slider>
+
+<div class="container  mb-3">
+    <div class="row">
+        <div class="col-md-11 mt-4">
+            <div class="d-flex justify-content-between align-items-center breaking-news ">
+                <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center bg-warning py-2 text-white px-1 news">
+                    <div class="spinner-border" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+                    @foreach (Slider slider in Model)
+                    {
+                    <a class="text-warning text-decoration-none">@slider.Title</a><span class="dot bg-warning"></span>
+
+                    }
+                </marquee>
+            </div>
+        </div>
+        <div class="col-md-1 mt-4 d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1">
+            <a href="#" id="icon" class="text-right mx-auto text-warning" style="font-size:33px;">  <i class="bi bi-brightness-high-fill" id="toggleDark"></i></a>
+        </div>
+    </div>
+</div>

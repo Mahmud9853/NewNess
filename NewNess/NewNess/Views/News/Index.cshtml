@@ -1,0 +1,60 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<!-- MAIN START -->
+
+<main>
+    <!-- PRODUCTS START -->
+    <section id="products">
+        <div class="container-fluid my-3 mb-auto">
+            <div class="row">
+
+                <div class="col-md-12  d-flex justify-content-center justify-content-md-center justify-content-sm-center">
+                    <div class="active ">
+                        @*<a href="" class="categories mr-2 btn btn-warning pt-2">Category</a>*@
+                        @*<i class="fas fa-caret-down"></i>*@
+                        <ul class="  d-inline category text-center " style=" padding:3px 3px; list-style:none; border:2px yellow solid; border-left:none; border-right:none;">
+                            <li class="d-inline"><a href="" class=" text-decoration-none active text-center " data-id="all">All</a></li>
+                            @foreach (Category category in Model.Categories)
+                            {
+                                <li class=" d-inline">
+                                    <a href="" class="  active text-center text-decoration-none" style=" padding:3px 3px; " data-id="cat-@category.Id">@category.Name</a>
+                                </li>
+
+                            }
+                        </ul>
+                    </div>
+
+
+                </div>
+            </div>
+
+            <div class="row gy-2 mt-5">
+
+
+                @foreach (News news in Model.News)
+                {
+
+                    <div class="col-md-6 col-sm-12 col-lg-3  my-4 photo">
+                        <div class="product-item  box d-flex p-4 h-100 flex-column text-warning" data-id="cat-@news.CategoryId">
+                            <img src="~/img/@news.NewsImages.FirstOrDefault()?.Image" class="h-75" alt="...">
+                            <p class="card-text">@news.Title</p>
+                            <span>By @news.By</span>
+                            <div> <i class="bi bi-hourglass-split "></i>@news.CreateTime.ToString(" HH:mm")  </div>
+                            <a asp-controller="News" asp-action="Detail" asp-route-id="@news.Id" class="btn btn-warning my-3">Ətraflı</a>
+
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+
+    </section>
+
+</main>
+<!-- PRODUCTS END -->
+<!-- MAIN END -->

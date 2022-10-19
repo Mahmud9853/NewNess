@@ -1,0 +1,135 @@
+﻿@model HomeVM
+<section class=" mx-5 pt-5">
+
+
+    @*<div class="w-100 d-flex justify-content-end  d-inline-block"  >
+            <ul class="bg-light w-25 list-unstyled " id="mylist" style="overflow-y:auto; z-index:1000;" >
+                <li class="d-flex list-style-none mx-2"> </li>
+            </ul>
+        </div>*@
+
+    <div class="container mb-5">
+        <div class="row">
+            <div class="col-md-6 ">
+
+                <div class="slider ">
+                    <!-- fade css -->
+                    @foreach (Slider slider in Model.Sliders)
+                    {
+                        <div class="myslide">
+                            <div class="txt">
+                               <h6 class="my-1" >@slider.Title</h6>
+                               <span><i class="bi bi-hourglass-split "></i> @slider.CreateTime.ToString("HH:mm")</span>
+                            </div>
+                            <a asp-controller="Home" asp-action="Detail" asp-route-id="@slider.Id"><img src="~/img/@slider.Image" style="width: 100%; height: 100%; border-radius:6px;"></a>
+                        </div>
+
+                    }
+
+                    <a class="prev my-2" onclick="plusSlides(-1)"><i class="bi bi-chevron-left"></i></a>
+                    <a class="next my-2" onclick="plusSlides(1)"><i class="bi bi-chevron-right"></i></a>
+                </div>
+            </div>
+            <div class="col-md-3 ">
+                <a asp-controller="Popular" asp-action="Index" class="btn btn-warning  ">Trendlər</a>
+
+                @foreach (Popular popular in Model.Populars)
+                {
+            <div class=" my-3 ">
+
+                <div class="row">
+                    <div class="col-md-6 ">
+                        <a asp-controller="Home" asp-action="PopularDetail" asp-route-id="@popular.Id"> <img src="~/img/@popular.Image" class="img-fluid" alt="..."></a>
+
+                    </div>
+                    <div class="col-md-6 ">
+
+                        <h6 class="card-title mt-2 text-left" style="font-size:12px;">@popular.Title</h6>
+
+                    </div>
+
+                </div>
+                <div class="row"> 
+                <div class="col-md-12">
+                    <span class="text-left " style="font-size:10px;"><i class="bi bi-hourglass-split "></i> @popular.CreateTime.ToString("HH:mm")</span>
+                    </div>
+                </div>
+                  
+                </div>
+
+                }
+                @*<div class="card w-75">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                <a href="#" class="btn btn-primary">Button</a>
+            </div>
+        </div>*@
+
+                @*<span class="text-warning">By Alex / @popular.CreateTime.ToString("dd , MMMM/yyyy") </span>*@
+
+            </div>
+            <div class="col-md-3 ">
+                <div class="datetime w-100 mt-5 ">
+                    <div class="date mt-2">
+                        <span id="dayname">Day,</span>
+                        <span id="month"> Month</span>
+                        <span id="daynum">00,</span>
+                        <span id="year"> Year</span>
+                    </div>
+
+                    <div class="time">
+                        <span id="hour">00</span>:
+                        <span id="min">00</span>:
+                        <span id="second">00</span>
+                        <span id="period" class="period">AM</span>
+                    </div>
+                </div>
+                <div class="wheather">
+                    <div class="">
+                        <h2>Hava durumu</h2>
+                        <input class="statue w-75 text-center " type="search" id="searchbar" placeholder="Şəhərlər" style="" />
+                        <div id="city" class="city mx-2 ">Bakı,Azərbaycan</div>
+                        <div id="temp" class="temp mx-2">15°C</div>
+                        <div id="desc" class="desc mx-2">Günəşli</div>
+                        <div id="minmax" class="minmax mx-2">15°C/19°C</div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="container" >
+        <div class="row row-cols-1 row-cols-md-3 g-4 my-4 ">
+            @foreach (Category category in Model.Categories)
+            {
+                <div class="col-lg-12 mt-5 " >
+                    <a  class="btn btn-warning type text-decoration-none mt-3 " data-id="cat-@category.Id" style="font-size:20px">@category.Name</a>
+                </div>
+                @foreach (News item in category.News.Where(x => x.IsDeactive ).Take(4))
+                {
+
+                    <div class="col-md-6 col-sm-12 col-lg-3 photo ">
+                        <div class="product-item  box d-flex p-4 h-100 flex-column text-warning" data-id="cat-@item.CategoryId">
+                            <img src="~/img/@item.NewsImages.FirstOrDefault()?.Image" class="h-75" alt="...">
+
+                            <p class="card-text">@item.Title</p>
+                            <span>By @item.By</span>
+                            <div> <i class="bi bi-hourglass-split "></i>@item.CreateTime.ToString(" HH:mm")  </div>
+                            <a asp-controller="News" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-warning mt-auto">Ətraflı</a>
+
+                        </div>
+                    </div>
+                }
+
+
+            }
+
+        </div>
+    </div>
+</section>

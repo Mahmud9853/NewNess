@@ -1,0 +1,19 @@
+﻿@model HomeVM
+
+
+@foreach (Slider slider in Model.Sliders)
+{
+    <div class="col-md-6 col-sm-12 col-lg-2 mx-3 mt-3 mb-3 photo ">
+        <div class="product-item  box d-flex p-4 h-100 flex-column text-warning">
+            <img src="~/img/@slider.Image" class="h-75" alt="...">
+            <div class="w-75 my-2">
+                <p class="card-text" style="font-size:15px;">@slider.Title</p>
+            </div>
+            <span>By @slider.By</span>
+            <div> <i class="bi bi-hourglass-split "></i>@slider.CreateTime.ToString(" HH:mm")  </div>
+            <a asp-controller="News" asp-action="Detail" asp-route-id="@slider.Id" class="btn btn-warning mt-3">Ətraflı</a>
+
+        </div>
+    </div>
+}
+
